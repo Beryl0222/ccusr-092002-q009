@@ -1,0 +1,14 @@
+{
+  "service": "skills-museum-operations",
+  "source_context": "http://ent.people.com.cn/n1/2026/0920/c1012-40801901.html",
+  "sample": {
+    "station_id": "DRONE-SIM-02",
+    "risk_level": "guided",
+    "capacity": 4,
+    "session": {
+      "id": "S-2201",
+      "status": "queued",
+      "group_id": "SCHOOL-9A"
+    }
+  }
+}
